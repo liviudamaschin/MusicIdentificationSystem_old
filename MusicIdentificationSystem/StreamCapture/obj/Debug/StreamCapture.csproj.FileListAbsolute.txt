@@ -1,0 +1,14 @@
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\obj\Debug\StreamCapture.csprojResolveAssemblyReference.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\obj\Debug\StreamCapture.csproj.CoreCompileInputs.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\StreamCapture.exe.config
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\StreamCapture.exe
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\StreamCapture.pdb
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\EntityFramework.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\EntityFramework.SqlServer.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\MusicIdentificationSystem.EF.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\MusicIdentificationSystem.EF.pdb
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\MusicIdentificationSystem.EF.dll.config
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\EntityFramework.xml
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\bin\Debug\EntityFramework.SqlServer.xml
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\obj\Debug\StreamCapture.exe
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\StreamCapture\obj\Debug\StreamCapture.pdb

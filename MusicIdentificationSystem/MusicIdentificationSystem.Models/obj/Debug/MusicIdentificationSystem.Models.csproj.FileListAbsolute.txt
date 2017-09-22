@@ -1,0 +1,6 @@
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.Models\bin\Debug\MusicIdentificationSystem.Models.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.Models\bin\Debug\MusicIdentificationSystem.Models.pdb
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.Models\obj\Debug\MusicIdentificationSystem.Models.csprojResolveAssemblyReference.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.Models\obj\Debug\MusicIdentificationSystem.Models.csproj.CoreCompileInputs.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.Models\obj\Debug\MusicIdentificationSystem.Models.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.Models\obj\Debug\MusicIdentificationSystem.Models.pdb

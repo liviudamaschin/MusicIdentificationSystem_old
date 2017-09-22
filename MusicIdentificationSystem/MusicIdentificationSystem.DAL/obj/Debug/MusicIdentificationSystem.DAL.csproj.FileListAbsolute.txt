@@ -1,0 +1,14 @@
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\obj\Debug\MusicIdentificationSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\obj\Debug\MusicIdentificationSystem.DAL.csproj.CoreCompileInputs.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\MusicIdentificationSystem.DAL.dll.config
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\MusicIdentificationSystem.DAL.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\MusicIdentificationSystem.DAL.pdb
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\EntityFramework.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\MusicIdentificationSystem.EF.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\MusicIdentificationSystem.EF.pdb
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\MusicIdentificationSystem.EF.dll.config
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\EntityFramework.xml
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\obj\Debug\MusicIdentificationSystem.DAL.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.DAL\obj\Debug\MusicIdentificationSystem.DAL.pdb

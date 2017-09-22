@@ -1,0 +1,11 @@
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\MusicIdentificationSystem.EF.dll.config
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\MusicIdentificationSystem.EF.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\MusicIdentificationSystem.EF.pdb
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\EntityFramework.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\EntityFramework.xml
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\obj\Debug\MusicIdentificationSystem.EF.csprojResolveAssemblyReference.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\obj\Debug\MusicIdentificationSystem.EF.csproj.CoreCompileInputs.cache
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\obj\Debug\MusicIdentificationSystem.EF.dll
+C:\Liviu\Dev\Shazam\MusicIdentificationSystem\MusicIdentificationSystem\MusicIdentificationSystem.EF\obj\Debug\MusicIdentificationSystem.EF.pdb
