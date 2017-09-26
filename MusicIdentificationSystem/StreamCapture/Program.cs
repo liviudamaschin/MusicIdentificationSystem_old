@@ -38,7 +38,7 @@ namespace StreamCapture
                     {
                         Capture capture = new Capture();
                         Console.WriteLine("Start capture station {0}", station.StationName);
-                        capture.StartCapture2(5, station.Url, station.LocalPath);
+                        capture.StartCapture2(0, station.Url, station.LocalPath);
                         Console.WriteLine("End capture station {0}", station.StationName);
 
                         ////Process process = new Process();

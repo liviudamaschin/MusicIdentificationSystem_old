@@ -122,7 +122,8 @@ namespace StreamCapture
             }
         }
 
-        public void StartCapture2(int minutes, string server, string destinationPath) {
+        public void StartCapture2(int minutes, string server, string destinationPath)
+        {
             HttpWebRequest req;
             Stream s = null;
             Stream fs = null;
@@ -130,22 +131,28 @@ namespace StreamCapture
             {
                 req = (HttpWebRequest)WebRequest.Create(server);
 
-                //var fileName = Path.Combine(destinationPath, "DefaultStream.mp3"); 
+
                 WebResponse resp = req.GetResponse();
                 s = resp.GetResponseStream();
-
+                var curentHour = DateTime.Now.Hour;
                 fs = createNewFile(destinationPath, "defaultStream");
-                //FileStream fs = File.Exists(fileName)
-                //    ? new FileStream(fileName, FileMode.Append)
-                //    : new FileStream(fileName, FileMode.Create);
+
 
                 byte[] buffer = new byte[4096];
                 var total = 0;
                 DateTime startTime = DateTime.Now;
                 DateTime endTime = DateTime.Now.AddMinutes(minutes);
+
                 //while (s.CanRead)
-                while (endTime > DateTime.Now)
+                while (minutes == 0 || endTime > DateTime.Now)
                 {
+                    if (curentHour < DateTime.Now.Hour)
+                    {
+                        if (fs != null)
+                            fs.Close();
+                        fs = createNewFile(destinationPath, "defaultStream");
+                        curentHour = DateTime.Now.Hour;
+                    }
                     int bytesRead = s.Read(buffer, 0, buffer.Length);
                     fs.Write(buffer, 0, bytesRead);
                     total += bytesRead;
@@ -162,7 +169,7 @@ namespace StreamCapture
                 if (s != null)
                     s.Close();
             }
-                 }
+        }
         /// <summary>
 		/// Create new file without overwritin existing files with the same filename.
 		/// </summary>
